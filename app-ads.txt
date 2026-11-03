@@ -1,4 +1,4 @@
 # app-ads.txt for QUANTIBEAT (Scot Coates)
-# Replace pub-0000000000000000 with the publisher ID from your personal AdMob account
+# Replace pub-5043009626075544 with the publisher ID from your personal AdMob account
 # (AdMob > Settings > Account information > Publisher ID). f08c47fec0942fa0 never changes.
-google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
+google.com, pub-5043009626075544, DIRECT, f08c47fec0942fa0
